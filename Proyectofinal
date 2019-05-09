@@ -1,0 +1,9 @@
+
+
+%matplotlib inline
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from oandapyV20 import API
+import oandapyV20.endpoints.instruments as instruments
+import datetime
